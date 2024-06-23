@@ -51,16 +51,16 @@ GymChallenge/
    git clone https://github.com/seu-usuario/GymChallenge.git
 ```
 3. **Crie uma Branch para Sua Feature**
-```bash
+   ```bash
    git checkout -b minha-feature
 ```
 4. **Implemente Sua Feature**
 5. **Commit suas Mudanças**
-```bash
+   ```bash
    git commit -m "Implementa minha nova feature"
 ```
 6. **Push para a Branch**
-```bash
+   ```bash
    git push origin minha-feature
 ```
 7. **Abra um Pull Request**
