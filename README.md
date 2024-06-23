@@ -42,6 +42,7 @@ GymChallenge/
 └── config/
     ├── env/
     └── settings.json
+```
 
 ## Como Contribuir
 1. **Fork o Repositório**
