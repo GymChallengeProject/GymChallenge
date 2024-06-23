@@ -53,7 +53,7 @@ GymChallenge/
 3. **Crie uma Branch para Sua Feature**
    ```bash
    git checkout -b minha-feature
-```
+
 4. **Implemente Sua Feature**
 5. **Commit suas Mudanças**
    ```bash
@@ -62,7 +62,7 @@ GymChallenge/
 6. **Push para a Branch**
    ```bash
    git push origin minha-feature
-```
+
 7. **Abra um Pull Request**
 
 ## Licença
