@@ -49,7 +49,7 @@ GymChallenge/
 2. **Clone o Repositório Forkado**
    ```bash
    git clone https://github.com/seu-usuario/GymChallenge.git
-`
+
 3. **Crie uma Branch para Sua Feature**
    ```bash
    git checkout -b minha-feature
@@ -58,7 +58,7 @@ GymChallenge/
 5. **Commit suas Mudanças**
    ```bash
    git commit -m "Implementa minha nova feature"
-```
+
 6. **Push para a Branch**
    ```bash
    git push origin minha-feature
